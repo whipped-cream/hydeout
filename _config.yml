@@ -3,18 +3,17 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Tuks Bathrooms
+title:            Tuks Toilets
 tagline:          "Rating bathrooms so you don't have to"
 description:      'A website where me and my friends review bathrooms dotted around the University of Pretoria'
 url:              https://whipped-cream.github.io/tuks-bathrooms
-baseurl:          '/tuks-bathrooms'
+baseurl:          '/tuks-toilets'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 remote_theme: fongandrew/hydeout
-
 
 author:
   name:           'Whipped Cream'
