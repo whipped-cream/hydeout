@@ -1,0 +1,13 @@
+---
+layout: post
+title: The Start of Something Beautiful
+---
+
+Welcome to the Tuks Toilets website. If you have stumbled here looking for Bathroom Reviews™ then you are in the right place and I encourage you to stick around as we dive into the wonderful world of bathrooms.
+
+Each post will take the form of a bathroom review and will be divided up into sections:
+1. Rating values based on cleanliness; availability of a hand dryer, condoms, and paper towels; appearance; ease of access;
+2. Notes on extraordinary factors
+3. _Star in a Reasonably-Priced Car_
+
+Stay tuned for updated by subscribing to the RSS feed provided by Jekyll
