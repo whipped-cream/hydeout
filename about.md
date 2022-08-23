@@ -4,10 +4,4 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hi there. This is a funny little website made by me, [@whipped-cream](https://whipped-cream.github.io), and my friends where we review the bathrooms around The University of Pretoria. Visit [this link](tuks-toilets/2022/08/19/the-start-of-something-beautiful.html) for more information on the review process.
