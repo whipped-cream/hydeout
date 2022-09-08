@@ -10,4 +10,4 @@ Each post will take the form of a bathroom review and will be divided up into se
 2. Notes on extraordinary factors (if applicable)
 3. _Star in a Reasonably-Priced Car_
 
-Stay tuned for updated by subscribing to the RSS feed provided by Jekyll
+Stay tuned for updates by subscribing to the RSS feed provided by Jekyll
